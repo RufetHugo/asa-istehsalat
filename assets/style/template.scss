@@ -31,6 +31,7 @@ body {
 * {
   letter-spacing: .5px;
   text-decoration: none !important;
+  font-family: FuturaPT-Book;
 }
 
 .main {
@@ -48,6 +49,27 @@ body {
   @media (min-width: 991px) {
     background-color: #F3F6FD;
   }
+}
+.main {
+  @media (min-width: 992px) {
+    min-height: calc(100vh - 100px);
+  }
+}
+
+@font-face {
+  font-family: 'FuturaPT-Medium';
+  src: url(./font/FuturaPTMedium.otf);
+  src: url(./font/FuturaPTBook.otf?#iefix) format("embedded-opentype"), url(./font/FuturaPTBook.otf#FuturaPT-Medium) format("svg"), url(./font/FuturaPTMedium.otf) format("truetype"), url(./font/FuturaPTMedium.otf) format("woff"), url(./font/FuturaPTMedium.otf) format("woff2");
+  font-weight: 400;
+  font-style: normal
+}
+
+@font-face {
+  font-family: 'FuturaPT-Book';
+  src: url(./font/FuturaPTBook.otf);
+  src: url(./font/FuturaPTBook.otf?#iefix) format("embedded-opentype"), url(./font/FuturaPTBook.otf#FuturaPT-Book) format("svg"), url(./font/FuturaPTBook.otf) format("truetype"), url(./font/FuturaPTBook.otf) format("woff"), url(./font/FuturaPTBook.otf) format("woff2");
+  font-weight: 400;
+  font-style: normal
 }
 
 /*====================================================================================================================*/

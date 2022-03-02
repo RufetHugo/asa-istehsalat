@@ -1,6 +1,6 @@
 <?php include 'header.php' ?>
 
-<div class="container-fluid bg-white pb-5 pb-md-5 pt-max-lg px-0 px-md-auto padding-top-header">
+<div class="container-fluid bg-white pb-5 pb-md-5 pt-max-lg px-0 px-md-5 padding-top-header">
     <div class="px-md-3">
         <div class="embed-responsive embed-responsive-16by9 embed-responsive-md-100vh border-radius-max-md-25">
             <img src="assets/images/Rectangle%20120.png" class="embed-responsive-item object-cover" alt="">
@@ -676,6 +676,15 @@
             allowfullscreen></iframe>
 
 </div>
+
+
+<style>
+    @media (min-width: 992px) {
+        body{
+            background-color: #F3F6FD;
+        }
+    }
+</style>
 
 
 <?php include 'footer.php' ?>
