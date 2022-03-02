@@ -1,14 +1,13 @@
 <?php include 'header.php' ?>
-
-<div class="container-fluid padding-top-header ">
+<div class="container-fluid padding-top-header px-lg-5 z-index-9 position-relative">
     <div class="breadcrumb radius-10 mt-2 py-3 py-lg-5">
         <div class="container-xl">
-            <div class="font-weight-bold mb-3 font-25 text-white">
+            <div class="font-weight-bold mb-3 font-32 text-white">
                 404
             </div>
 
             <div class="border rounded text-white d-inline-block px-3 py-2">
-                <span class="font-14">Əsas Səhifə</span> <i class="mdi mdi-chevron-right"></i> <span class="font-14">404</span>
+                <span class="font-17">Əsas Səhifə</span> <i class="mdi mdi-chevron-right"></i> <span class="font-17">404</span>
             </div>
         </div>
     </div>

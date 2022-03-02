@@ -28,9 +28,9 @@
                 <div class="d-xl-none p-2 py-md-3">
                     <div class="d-flex justify-content-between mb-2">
                         <div>
-                            <div class="form-group mb-0 position-relative search-mobil">
+                            <div class="form-group mb-0 position-relative search-mobil h-100">
                                 <input type="text" placeholder="Axtar."
-                                       class="form-lcontrol rounded-pill bg-main-darken-outline-two border-none py-0 pl-3"
+                                       class="form-lcontrol rounded-pill bg-main-darken-outline-two h-100 border-none py-0 pl-3"
                                        id="inputEmail42">
 
                                 <div class="input-icon position-absolute top-0 right-0 mt-1 mr-2">
@@ -147,7 +147,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link px-xl-3 d-xl-flex align-items-center font-17 font-xl-15"
+                            <a class="nav-link px-xl-3 d-xl-flex align-items-center font-17"
                                href="contact.php">
                                 Əlaqə
                             </a>

@@ -1,14 +1,14 @@
 <?php include 'header.php' ?>
 
-<div class="container-fluid padding-top-header ">
+<div class="container-fluid padding-top-header px-lg-5 z-index-9 position-relative">
     <div class="breadcrumb radius-10 mt-2 py-3 py-lg-5">
         <div class="container-xl">
-            <div class="font-weight-bold mb-3 font-25 text-white">
+            <div class="font-weight-bold mb-3 font-32 text-white">
                 Əlaqə
             </div>
 
             <div class="border rounded text-white d-inline-block px-3 py-2">
-                <span class="font-14">Əsas Səhifə</span> <i class="mdi mdi-chevron-right"></i> <span class="font-14">Əlaqə</span>
+                <span class="font-17">Əsas Səhifə</span> <i class="mdi mdi-chevron-right"></i> <span class="font-17">Əlaqə</span>
             </div>
         </div>
     </div>
@@ -18,31 +18,31 @@
     <div class="row py-5">
         <div class="col-12 col-lg-6 mb-4">
 
-            <div class="font-weight-bold text-special font-20 mb-3">
+            <div class="font-weight-bold text-special font-24 mb-3">
                 Baş ofis
             </div>
 
             <div class="mb-3 mb-lg-4">
                 <div class="text-dark d-flex align-items-center mb-2 mb-lg-3">
                     <img src="assets/images/pin.svg" alt="">
-                    <span class="ml-2 font-15">Bakı ş., Nərimanov r., Ələsgər Qayıbov küç. ev 11B, AZ1029</span>
+                    <span class="ml-2 font-17">Bakı ş., Nərimanov r., Ələsgər Qayıbov küç. ev 11B, AZ1029</span>
                 </div>
 
                 <div class="text-dark d-flex align-items-center mb-2 mb-lg-3">
                     <img src="assets/images/Vector (1).svg" alt="">
-                    <span class="ml-2 font-15">(+994 12) 511 13 08/09/10</span>
+                    <span class="ml-2 font-17">(+994 12) 511 13 08/09/10</span>
                 </div>
 
 
                 <div class="text-dark d-flex align-items-center mb-2 mb-lg-3">
                     <img src="assets/images/Vector (1).svg" alt="">
-                    <span class="ml-2 font-15">(+994 12) 448 00 00</span>
+                    <span class="ml-2 font-17">(+994 12) 448 00 00</span>
                 </div>
 
 
                 <div class="text-dark d-flex align-items-center mb-2 mb-lg-3">
                     <img src="assets/images/mail 1.svg" alt="">
-                    <span class="ml-2 font-15">office@asgroup.az</span>
+                    <span class="ml-2 font-17">office@asgroup.az</span>
                 </div>
             </div>
 
@@ -53,7 +53,7 @@
             <div class="row no-gutters">
 
                 <div class="col-12 mb-3">
-                    <div class="font-weight-bold font-25">
+                    <div class="font-weight-bold font-32">
                         Bizimlə əlaqə
                     </div>
                 </div>
@@ -77,8 +77,23 @@
                 </div>
 
                 <div class="col-12 col-lg-6 mb-3 px-2">
-                    <div class="form-group mb-0">
-                        <input type="text" placeholder="Nömrə" class="form-control input-border rounded" id="inputEmail4">
+                    <div class="input-border rounded bg-white h-100 mb-0 d-flex align-items-center">
+                        <div class="border-right input-color px-2 lh-38 font-13 font-weight-500">
+                            Status
+                        </div>
+                        <div class="d-flex align-items-center p-1 ml-2">
+
+                            <div class="custom-control custom-radio">
+                                <input type="radio" class="custom-control-input" id="customControlValidation3" name="radio-stacked" required>
+                                <label class="custom-control-label font-weight-500" for="customControlValidation3">İrad</label>
+                            </div>
+
+                            <div class="custom-control custom-radio ml-2">
+                                <input type="radio" class="custom-control-input" id="customControlValidation2" name="radio-stacked" required>
+                                <label class="custom-control-label font-weight-500" for="customControlValidation2">Təklif</label>
+                            </div>
+
+                        </div>
                     </div>
                 </div>
 

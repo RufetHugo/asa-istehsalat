@@ -1,15 +1,14 @@
 <?php include 'header.php' ?>
-
-<div class="container-flu id padding-top-header mb-lg-5">
+<div class="container-fluid padding-top-header px-lg-5 z-index-9 position-relative">
     <div class="breadcrumb radius-10 mt-2 py-3 py-lg-5">
 
         <div class="container-xl">
-            <div class="font-weight-bold mb-3 font-25 text-white">
+            <div class="font-weight-bold mb-3 font-32 text-white">
                 Layihələr
             </div>
 
             <div class="border rounded text-white d-inline-block px-3 py-2">
-                <span class="font-14">Əsas Səhifə</span> <i class="mdi mdi-chevron-right"></i> <span class="font-14">Layihələr</span>
+                <span class="font-17">Əsas Səhifə</span> <i class="mdi mdi-chevron-right"></i> <span class="font-17">Layihələr</span>
                 <span class="font-14">“Renessans Palace” layihəsi</span>
             </div>
         </div>
@@ -17,7 +16,8 @@
     </div>
 </div>
 
-<div class="container-xl">
+<div class="bg-lg-body mx-lg-4 radius-14 py-lg-5 my-lg-n5 position-relative">
+    <div class="container-xl pt-3 pt-lg-5">
 
     <div class="mb-3">
         <div class="font-weight-bold font-20 font-lg-30 text-special mb-3">
@@ -164,6 +164,7 @@
         </div>
     </div>
 
+</div>
 </div>
 
 

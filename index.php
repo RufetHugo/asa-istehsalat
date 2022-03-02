@@ -76,8 +76,8 @@
         </div>
 
         <div class="d-flex justify-content-between py-4 py-xl-0 overflow-max-lg-x-auto">
-            <div class="mr-3 d-block position-relative w-100">
-                <div class="projects-card min-width-230 w-100 hover-shadow radius-8">
+            <div class="mr-3 min-width-200 d-block position-relative w-100">
+                <a href="projects-details.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
 
                     <div class="embed-responsive embed-responsive-1by1 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
@@ -93,17 +93,17 @@
 
                     <div class="w-100 projects-card-btn">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
-                            <a href="projects-details.php"
+                            <div
                                class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
-                            </a>
+                            </div>
                         </div>
                     </div>
 
-                </div>
+                </a>
             </div>
-            <div class="mr-3 d-block position-relative w-100">
-                <div class="projects-card min-width-230 w-100 hover-shadow radius-8">
+            <div class="mr-3 min-width-200 d-block position-relative w-100">
+                <a href="projects-details.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
 
                     <div class="embed-responsive embed-responsive-1by1 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-2.png"
@@ -119,17 +119,17 @@
 
                     <div class="w-100 projects-card-btn">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
-                            <a href="projects-details.php"
+                            <div
                                class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
-                            </a>
+                            </div>
                         </div>
                     </div>
 
-                </div>
+                </a>
             </div>
-            <div class="mr-3 d-block position-relative w-100">
-                <div class="projects-card min-width-230 w-100 hover-shadow radius-8">
+            <div class="mr-3 min-width-200 d-block position-relative w-100">
+                <a href="projects-details.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
 
                     <div class="embed-responsive embed-responsive-1by1 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
@@ -145,17 +145,17 @@
 
                     <div class="w-100 projects-card-btn">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
-                            <a href="projects-details.php"
+                            <div
                                class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
-                            </a>
+                            </div>
                         </div>
                     </div>
 
-                </div>
+                </a>
             </div>
-            <div class="mr-3 d-block position-relative w-100">
-                <div class="projects-card min-width-230 w-100 hover-shadow radius-8">
+            <div class="mr-3 min-width-200 d-block position-relative w-100">
+                <a href="projects-details.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
 
                     <div class="embed-responsive embed-responsive-1by1 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
@@ -171,14 +171,13 @@
 
                     <div class="w-100 projects-card-btn">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
-                            <a href="projects-details.php"
-                               class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                            <div class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
-                            </a>
+                            </div>
                         </div>
                     </div>
 
-                </div>
+                </a>
             </div>
         </div>
 
@@ -273,7 +272,7 @@
         <div class="d-flex justify-content-between py-4 py-xl-0  overflow-max-lg-x-auto">
 
             <div class="w-100 mr-3 min-width-230 mb-3">
-                <div class="projects-card hover-shadow radius-8 position-relative">
+                <a href="projects-details.php" class="projects-card hover-shadow radius-8 position-relative">
 
                     <div class="embed-responsive embed-responsive-14by9 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
@@ -284,20 +283,20 @@
                         <div class="bg-before-opacity"></div>
                     </div>
 
-                    <div class="w-100 projects-card-btn">
+                    <div class="w-100 projects-card-btn position-relative">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
-                            <a href="projects-details.php"
+                            <div
                                class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
-                            </a>
+                            </div>
                         </div>
                     </div>
 
-                </div>
+                </a>
             </div>
 
             <div class="w-100 mr-3 min-width-230 mb-3">
-                <div class="projects-card hover-shadow radius-8 position-relative">
+                <a href="projects-details.php" class="projects-card hover-shadow radius-8 position-relative">
 
                     <div class="embed-responsive embed-responsive-14by9 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-2.png"
@@ -308,20 +307,20 @@
                         <div class="bg-before-opacity"></div>
                     </div>
 
-                    <div class="w-100 projects-card-btn">
+                    <div class="w-100 projects-card-btn position-relative">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
-                            <a href="projects-details.php"
+                            <div
                                class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
-                            </a>
+                            </div>
                         </div>
                     </div>
 
-                </div>
+                </a>
             </div>
 
             <div class="w-100 mr-3 min-width-230 mb-3">
-                <div class="projects-card hover-shadow radius-8 position-relative">
+                <a href="projects-details.php" class="projects-card hover-shadow radius-8 position-relative">
 
                     <div class="embed-responsive embed-responsive-14by9 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
@@ -332,16 +331,16 @@
                         <div class="bg-before-opacity"></div>
                     </div>
 
-                    <div class="w-100 projects-card-btn">
+                    <div class="w-100 projects-card-btn position-relative">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
-                            <a href="projects-details.php"
+                            <div
                                class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
-                            </a>
+                            </div>
                         </div>
                     </div>
 
-                </div>
+                </a>
             </div>
 
         </div>
