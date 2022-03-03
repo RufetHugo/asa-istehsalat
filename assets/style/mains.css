@@ -116,7 +116,7 @@ body {
     height: 100%;
   }
   .main-header .main-navbar .navbar-nav .nav-item {
-    min-width: 120px;
+    min-width: 91px;
     z-index: 999;
     /*
                     &:hover {
@@ -696,6 +696,10 @@ body {
 
 .radius-14 {
   border-radius: 14px;
+}
+
+.radius-30 {
+  border-radius: 30px;
 }
 
 .bg-danger-gradient {
@@ -2678,6 +2682,10 @@ input:-webkit-autofill {
   color: #000 !important;
 }
 .pagination .page-link:hover {
+  background-color: #E2EFF8 !important;
+  border-radius: 5px !important;
+}
+.pagination .active .page-link {
   background-color: #E2EFF8 !important;
   border-radius: 5px !important;
 }

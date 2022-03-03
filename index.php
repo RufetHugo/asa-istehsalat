@@ -77,7 +77,7 @@
 
         <div class="d-flex justify-content-between py-4 py-xl-0 overflow-max-lg-x-auto">
             <div class="mr-3 min-width-200 d-block position-relative w-100">
-                <a href="projects-details.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
+                <a href="produc.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
 
                     <div class="embed-responsive embed-responsive-1by1 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
@@ -103,7 +103,7 @@
                 </a>
             </div>
             <div class="mr-3 min-width-200 d-block position-relative w-100">
-                <a href="projects-details.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
+                <a href="produc.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
 
                     <div class="embed-responsive embed-responsive-1by1 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-2.png"
@@ -129,7 +129,7 @@
                 </a>
             </div>
             <div class="mr-3 min-width-200 d-block position-relative w-100">
-                <a href="projects-details.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
+                <a href="produc.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
 
                     <div class="embed-responsive embed-responsive-1by1 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
@@ -155,7 +155,7 @@
                 </a>
             </div>
             <div class="mr-3 min-width-200 d-block position-relative w-100">
-                <a href="projects-details.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
+                <a href="produc.php" class="projects-card min-width-230 w-100 hover-shadow radius-8">
 
                     <div class="embed-responsive embed-responsive-1by1 radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
@@ -255,7 +255,7 @@
 
                 <div class="font-32 font-weight-bold title-before ml-n2">
                     <i class="mdi mdi-circle-small font-30 text-yellow mr-n1"></i>
-                    Məhsullar
+                    Layihələr
                 </div>
 
                 <button class="btn bg-white px-4 py-2 text-special border-special d-none d-md-block">
@@ -605,7 +605,7 @@
     </div>
 </div>-->
 <div class="container-fluid bg-body mb-5 px-lg-5">
-    <div  class="bg-white radius-10">
+    <div class="bg-white radius-10">
         <div class="container-xl partners-carousel">
             <div class="mx-4">
                 <div class="chart-discount-carousel">

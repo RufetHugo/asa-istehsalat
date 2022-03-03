@@ -1,5 +1,5 @@
 <?php include 'header.php' ?>
-<div class="container-fluid padding-top-header px-lg-5 z-index-9 position-relative">
+<!--<div class="container-fluid padding-top-header px-lg-5 z-index-9 position-relative">
     <div class="breadcrumb radius-10 mt-2 py-3 py-lg-5">
 
         <div class="container-xl">
@@ -260,5 +260,160 @@
     </div>
 
 </div>
+-->
+
+
+
+<div class="container-fluid padding-top-header px-lg-5 position-relative z-index-9">
+    <div class="breadcrumb radius-10 mt-2 py-3 py-lg-5">
+
+        <div class="container-xl">
+            <div class="font-weight-bold mb-3 font-32 text-white">
+                Layihələr
+            </div>
+
+            <div class="border rounded text-white d-inline-block px-3 py-2">
+                <span class="font-14">Əsas Səhifə</span> <i class="mdi mdi-chevron-right"></i> <span class="font-14">Layihələr</span>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="bg-lg-body mx-lg-4 radius-14 py-lg-5 my-lg-n5 position-relative">
+    <div class="container-xl pt-3 pt-lg-5">
+        <div class="row">
+
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <a href="projects-details.php" class="projects-card hover-shadow radius-8">
+
+                    <div class="embed-responsive embed-responsive-1by1 radius-8">
+                        <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
+                             class="embed-responsive-item object-cover" alt="">
+                        <div class="position-absolute bottom-0 left-0 m-4 my-5 w-100 font-weight-bold text-white z-index-9 font-18">
+                            Abşeron Aqropark
+                        </div>
+                        <div class="bg-before-opacity"></div>
+                    </div>
+
+                    <div class="w-100 projects-card-btn">
+                        <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
+                            <div class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                                <i class="mdi mdi-arrow-right font-20 text-white"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                </a>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <a href="projects-details.php" class="projects-card hover-shadow radius-8">
+
+                    <div class="embed-responsive embed-responsive-1by1 radius-8">
+                        <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
+                             class="embed-responsive-item object-cover" alt="">
+                        <div class="position-absolute bottom-0 left-0 m-4 my-5 w-100 font-weight-bold text-white z-index-9 font-18">
+                            Abşeron Aqropark
+                        </div>
+                        <div class="bg-before-opacity"></div>
+                    </div>
+
+                    <div class="w-100 projects-card-btn">
+                        <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
+                            <div class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                                <i class="mdi mdi-arrow-right font-20 text-white"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                </a>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <a href="projects-details.php" class="projects-card hover-shadow radius-8">
+
+                    <div class="embed-responsive embed-responsive-1by1 radius-8">
+                        <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
+                             class="embed-responsive-item object-cover" alt="">
+                        <div class="position-absolute bottom-0 left-0 m-4 my-5 w-100 font-weight-bold text-white z-index-9 font-18">
+                            Abşeron Aqropark
+                        </div>
+                        <div class="bg-before-opacity"></div>
+                    </div>
+
+                    <div class="w-100 projects-card-btn">
+                        <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
+                            <div class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                                <i class="mdi mdi-arrow-right font-20 text-white"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                </a>
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-4 mb-4">
+                <a href="projects-details.php" class="projects-card hover-shadow radius-8">
+
+                    <div class="embed-responsive embed-responsive-1by1 radius-8">
+                        <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
+                             class="embed-responsive-item object-cover" alt="">
+                        <div class="position-absolute bottom-0 left-0 m-4 my-5 w-100 font-weight-bold text-white z-index-9 font-18">
+                            Abşeron Aqropark
+                        </div>
+                        <div class="bg-before-opacity"></div>
+                    </div>
+
+                    <div class="w-100 projects-card-btn">
+                        <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
+                            <div class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                                <i class="mdi mdi-arrow-right font-20 text-white"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                </a>
+            </div>
+
+
+            <div class="col-12">
+                <div class="d-flex justify-content-center">
+                    <nav aria-label="Page navigation example">
+                        <ul class="pagination bg-white px-2 py-1 d-inline-flex">
+                            <li class="page-item">
+                                <a class="page-link border-none d-flex align-items-center justify-content-center" href="#" aria-label="Previous">
+                                    <span aria-hidden="true"><i class="mdi mdi-chevron-left"></i></span>
+                                </a>
+                            </li>
+                            <li class="page-item active"><a class="page-link border-none d-flex align-items-center justify-content-center" href="#">1</a></li>
+                            <li class="page-item"><a class="page-link border-none d-flex align-items-center justify-content-center" href="#">2</a></li>
+                            <li class="page-item"><a class="page-link border-none d-flex align-items-center justify-content-center" href="#">3</a></li>
+                            <li class="page-item"><a class="page-link border-none d-flex align-items-center justify-content-center" href="#">4</a></li>
+                            <li class="page-item"><a class="page-link border-none d-flex align-items-center justify-content-center" href="#">5</a></li>
+                            <li class="page-item">
+                                <a class="page-link border-none d-flex align-items-center justify-content-center" href="#" aria-label="Next">
+                                    <span aria-hidden="true"><i class="mdi mdi-chevron-right"></i></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<style>
+    @media (max-width: 991px) {
+        body {
+            background-color: #F3F6FD;
+        }
+    }
+</style>
+
 
 <?php include 'footer.php' ?>
+

@@ -128,7 +128,7 @@ body {
         height: 100%;
 
         .nav-item {
-          min-width: 120px;
+          min-width: 91px;
           z-index: 999;
 
           .nav-link {
@@ -807,6 +807,10 @@ body {
 
 .radius-14 {
   border-radius: 14px;
+}
+
+.radius-30 {
+  border-radius: 30px;
 }
 
 .bg-danger-gradient {
@@ -2887,12 +2891,12 @@ input:-webkit-autofill {
   }
 }
 
-
 /*====================================================================================================================*/
 /* Pagination :)*/
 /*====================================================================================================================*/
 .pagination {
   background-color: #fff !important;
+
   .page-link {
     width: 25px !important;
     height: 25px !important;
@@ -2903,6 +2907,14 @@ input:-webkit-autofill {
       background-color: #E2EFF8 !important;
       border-radius: 5px !important;
     }
+  }
+
+  .active {
+    .page-link {
+      background-color: #E2EFF8 !important;
+      border-radius: 5px !important;
+    }
+
   }
 
   /* @media (min-width: 768px) {

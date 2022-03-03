@@ -2,7 +2,7 @@
 </div>
 
 <footer class="container-fluid px-lg-5 z-index-9 position-relative">
-    <div class="bg-main-special radius-14">
+    <div class="bg-main-special radius-30">
         <div class="container-xl">
             <div class="my-3 mb-5 p-3 py-lg-41 text-center d-md-flex align-items-center justify-content-between">
                 <div class="font-weight-bold mb-2 mb-md-0 main-color-fot">Bütün hüquqlar qorunur © 2020</div>
