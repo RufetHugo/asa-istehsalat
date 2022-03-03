@@ -21,16 +21,16 @@
             <div class="col-12 col-md-4 col-lg-3">
                 <div class="p-2 py-3 rounded bg-white mb-2 d-none d-md-block">
                     <div class="list-group rounded-0 d-flex d-md-block" id="list-tab" role="tablist">
-                        <a class="list-group-item list-group-item-action border-none text-special font-17 active"
+                        <a class="list-group-item list-group-item-action border-none text-special font-17 active" onclick="asd('1')"
                            id="list-home-list" data-toggle="list" href="#list-home" role="tab"
                            aria-controls="home">Home</a>
-                        <a class="list-group-item list-group-item-action border-none text-special font-17"
+                        <a class="list-group-item list-group-item-action border-none text-special font-17" onclick="asd('2')"
                            id="list-profile-list"
                            data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Profile</a>
-                        <a class="list-group-item list-group-item-action border-none text-special font-17"
+                        <a class="list-group-item list-group-item-action border-none text-special font-17" onclick="asd('3')"
                            id="list-messages-list"
                            data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">Messages</a>
-                        <a class="list-group-item list-group-item-action border-none text-special font-17"
+                        <a class="list-group-item list-group-item-action border-none text-special font-17" onclick="asd('4')"
                            id="list-settings-list"
                            data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">Settings</a>
                     </div>
@@ -70,7 +70,7 @@
                     </label>
                 </div>
 
-                <button class="btn bg-yellow text-white w-100 py-2 mb-2">
+                <button onclick="download()" class="btn bg-yellow text-white w-100 py-2 mb-2">
                     <span class="font-14 ">Daha Ətraflı (PDF) </span> <i class="mdi mdi-24px mdi-tray-arrow-down"></i>
                 </button>
             </div>
@@ -280,6 +280,7 @@
                         </div>-->
 
                     </div>
+
                     <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">...
                     </div>
                     <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list">
@@ -294,8 +295,24 @@
     </div>
 </div>
 
-
+<a href="#" id="abc"></a>
 <script>
+
+    let data
+
+    function asd(e) {
+        if(e) data = e;
+        console.log(data);
+    }
+
+    function download() {
+        if (!data) {
+            data = '2'
+        }
+        const href = document.getElementById("abc").href="http://bura.az" + data;
+        window.open(href)
+    }
+
     // Change option selected
     const label = document.querySelector('.dropdown-el__filter-selected')
     const options = Array.from(document.querySelectorAll('.dropdown-el__select-option'))

@@ -16,6 +16,7 @@ document.querySelectorAll('.get-back').forEach(back => {
 
 window.addEventListener('click', onClick);
 
+
 function onClick(e) {
     if (window.innerWidth < 1199) {
         if (!document.getElementById('mainNavbarToggler').contains(e.target)

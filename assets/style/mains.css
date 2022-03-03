@@ -599,6 +599,18 @@ body {
   transition: all 0.3s;
 }
 
+.bg-before-opacity-there:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: #00387E;
+  opacity: 0.4;
+  transition: all 0.3s;
+}
+
 .top-0 {
   top: 0;
 }
@@ -842,6 +854,12 @@ body {
 }
 
 .hover-shadow:hover {
+  background-color: #fff !important;
+  box-shadow: 0px 12px 60px rgba(112, 144, 176, 0.16);
+  border-color: #fff !important;
+}
+
+.hover-shadow-two:hover {
   background-color: #fff !important;
   box-shadow: 0px 12px 60px rgba(112, 144, 176, 0.16);
   border-color: #fff !important;
@@ -2722,6 +2740,10 @@ input:-webkit-autofill {
   opacity: 1 !important;
 }
 .projects-card:hover .bg-before-opacity-two:before {
+  content: "";
+  opacity: 0.7 !important;
+}
+.projects-card:hover .bg-before-opacity-there:before {
   content: "";
   opacity: 0.7 !important;
 }

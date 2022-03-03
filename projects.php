@@ -293,7 +293,7 @@
                         <div class="position-absolute bottom-0 left-0 m-4 my-5 w-100 font-weight-bold text-white z-index-9 font-18">
                             Abşeron Aqropark
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn">
@@ -316,7 +316,7 @@
                         <div class="position-absolute bottom-0 left-0 m-4 my-5 w-100 font-weight-bold text-white z-index-9 font-18">
                             Abşeron Aqropark
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn">
@@ -339,7 +339,7 @@
                         <div class="position-absolute bottom-0 left-0 m-4 my-5 w-100 font-weight-bold text-white z-index-9 font-18">
                             Abşeron Aqropark
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn">
@@ -362,7 +362,7 @@
                         <div class="position-absolute bottom-0 left-0 m-4 my-5 w-100 font-weight-bold text-white z-index-9 font-18">
                             Abşeron Aqropark
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn">
