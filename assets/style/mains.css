@@ -127,6 +127,7 @@ body {
   .main-header .main-navbar .navbar-nav .nav-item .nav-link {
     display: flex;
     justify-content: center;
+    color: #393939 !important;
   }
   .main-header .main-navbar .navbar-nav .nav-item.active .nav-link {
     background: #7967ad12;
@@ -544,7 +545,7 @@ body {
 
 @media (min-width: 767px) {
   .embed-responsive-md-100vh::before {
-    padding-top: calc(100vh - var(--header-height)) !important;
+    padding-top: calc(100vh - 110px) !important;
   }
 }
 
@@ -924,6 +925,10 @@ body {
 
 .h-91 {
   height: 91%;
+}
+
+.desc {
+  line-break: anywhere;
 }
 
 .h-100vh {
