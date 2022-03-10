@@ -7,8 +7,11 @@
             </div>
 
             <div class="border rounded text-white d-inline-block px-3 py-2">
-                <span class="font-17">Əsas Səhifə</span> <i class="mdi mdi-chevron-right"></i> <span class="font-17">Haqqımızda</span>
-                <i class="mdi mdi-chevron-right"></i> <span class="font-17">Uğurlar və Sertifikatlar</span>
+                <a href="#" class="font-17 text-white">Əsas Səhifə</a>
+                <img src="assets/images/Vector (2).svg" width="5" height="10" class="mx-2 mb-1" alt="">
+                <a href="#" class="font-17 text-white">Haqqımızda</a>
+                <img src="assets/images/Vector (2).svg" width="5" height="10" class="mx-2 mb-1" alt="">
+                <span class="font-17">Uğurlar və Sertifikatlar</span>
             </div>
         </div>
     </div>
@@ -47,7 +50,7 @@
             <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3 mb-lg-4">
                 <div onclick="mySliderFunction()" class="bg-white radius-8 pointer hover-img">
                     <div class="position-relative">
-                        <div class="embed-responsive embed-responsive-14by9 radius-8 filter-drop-shadow position-relative">
+                        <div class="embed-responsive embed-responsive-180by radius-8 filter-drop-shadow position-relative">
                             <img src="assets/images/Rectangle 118.jpg"
                                  class="embed-responsive-item object-cover" alt="">
                             <div class="bg-before"></div>
@@ -70,7 +73,7 @@
             <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3 mb-lg-4">
                 <div onclick="mySliderFunction()" class="bg-white radius-8 pointer hover-img">
                     <div class="position-relative">
-                        <div class="embed-responsive embed-responsive-14by9 radius-8 filter-drop-shadow position-relative">
+                        <div class="embed-responsive embed-responsive-180by radius-8 filter-drop-shadow position-relative">
                             <img src="assets/images/Rectangle 118.jpg"
                                  class="embed-responsive-item object-cover" alt="">
                             <div class="bg-before"></div>
@@ -93,7 +96,7 @@
             <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3 mb-lg-4">
                 <div onclick="mySliderFunction()" class="bg-white radius-8 pointer hover-img">
                     <div class="position-relative">
-                        <div class="embed-responsive embed-responsive-14by9 radius-8 filter-drop-shadow position-relative">
+                        <div class="embed-responsive embed-responsive-180by radius-8 filter-drop-shadow position-relative">
                             <img src="assets/images/Rectangle 118.jpg"
                                  class="embed-responsive-item object-cover" alt="">
                             <div class="bg-before"></div>
@@ -116,7 +119,7 @@
             <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3 mb-lg-4">
                 <div onclick="mySliderFunction()" class="bg-white radius-8 pointer hover-img">
                     <div class="position-relative">
-                        <div class="embed-responsive embed-responsive-14by9 radius-8 filter-drop-shadow position-relative">
+                        <div class="embed-responsive embed-responsive-180by radius-8 filter-drop-shadow position-relative">
                             <img src="assets/images/Rectangle 118.jpg"
                                  class="embed-responsive-item object-cover" alt="">
                             <div class="bg-before"></div>
@@ -139,7 +142,7 @@
             <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3 mb-lg-4">
                 <div onclick="mySliderFunction()" class="bg-white radius-8 pointer hover-img">
                     <div class="position-relative">
-                        <div class="embed-responsive embed-responsive-14by9 radius-8 filter-drop-shadow position-relative">
+                        <div class="embed-responsive embed-responsive-180by radius-8 filter-drop-shadow position-relative">
                             <img src="assets/images/Rectangle 118.jpg"
                                  class="embed-responsive-item object-cover" alt="">
                             <div class="bg-before"></div>
@@ -162,7 +165,7 @@
             <div class="col-12 col-md-6 col-lg-4 col-xl-3 mb-3 mb-lg-4">
                 <div onclick="mySliderFunction()" class="bg-white radius-8 pointer hover-img">
                     <div class="position-relative">
-                        <div class="embed-responsive embed-responsive-14by9 radius-8 filter-drop-shadow position-relative">
+                        <div class="embed-responsive embed-responsive-180by radius-8 filter-drop-shadow position-relative">
                             <img src="assets/images/Rectangle 118.jpg"
                                  class="embed-responsive-item object-cover" alt="">
                             <div class="bg-before"></div>

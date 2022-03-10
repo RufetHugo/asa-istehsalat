@@ -8,7 +8,9 @@
             </div>
 
             <div class="border rounded text-white d-inline-block px-3 py-2">
-                <span class="font-17">Əsas Səhifə</span> <i class="mdi mdi-chevron-right"></i> <span class="font-17">Məhsullar</span>
+                <a href="#" class="font-17 text-white">Əsas Səhifə</a>
+                <img src="assets/images/Vector (2).svg" width="5" height="10" class="mx-2 mb-1" alt="">
+                <span class="font-17">Məhsullar</span>
             </div>
         </div>
 

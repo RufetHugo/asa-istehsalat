@@ -24,9 +24,10 @@
                         </p>
                     </div>
                     <div class="col-12 col-lg-5 col-xl-4">
-                        <div class="d-flex align-items-center justify-content-center">
-                            <button onclick="mainVideoFunction()" class="button-default-style-none">
-                                <i class="mdi mdi-play-circle text-white font-80"></i>
+                        <div class="d-flex align-items-center justify-content-center h-100">
+                            <button onclick="mainVideoFunction()"
+                                    class="button-default-style-none position-relative px-0 video-icon">
+                                <img src="assets/images/Path 58.svg" width="80" height="80" alt="">
                             </button>
                         </div>
                     </div>
@@ -53,7 +54,7 @@
     </div>
 </div>
 
-<div class="bg-white">
+<div class="bg-white bg-before-img position-relative">
     <div class="container-xl pb-5">
         <div class="">
             <div class="mb-2 d-flex align-items-center justify-content-between">
@@ -88,13 +89,13 @@
 
                             </span>
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
                             <div
-                               class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                                    class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
                             </div>
                         </div>
@@ -114,13 +115,13 @@
 
                             </span>
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
                             <div
-                               class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                                    class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
                             </div>
                         </div>
@@ -140,13 +141,13 @@
 
                             </span>
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
                             <div
-                               class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                                    class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
                             </div>
                         </div>
@@ -166,7 +167,7 @@
 
                             </span>
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn">
@@ -184,11 +185,11 @@
     </div>
 </div>
 
-<div class="p-3 p-lg-5 bg-main-darken mb-3 mb-lg-5">
-    <div class="container-xl">
-        <div class="d-flex justify-content-between py-5 py-lg-0 overflow-max-lg-x-auto">
+<div class="p-lg-5 bg-main-darken mb-3 mb-lg-5">
+    <div class="container-xl my-lg-2">
+        <div class="d-flex justify-content-between px-3 px-lg-0 py-5 py-lg-0 overflow-max-lg-x-auto">
 
-            <div class="mr-3 d-block w-100">
+            <div class="mr-3 d-block w-100 min-lg-h-228">
                 <div class="p-4 text-center min-width-230 h-100 w-100 bg-main-darken-outline">
                     <div class="text-uppercase font-40 font-lg-48 text-white font-weight-bold">
                         25 il
@@ -202,7 +203,7 @@
                 </div>
             </div>
 
-            <div class="mr-3 d-block w-100">
+            <div class="mr-3 d-block w-100 min-lg-h-228">
                 <div class="p-4 text-center min-width-230 h-100 w-100 bg-main-darken-outline">
                     <div class="text-uppercase font-40 font-lg-48 text-white font-weight-bold">
                         2358
@@ -216,7 +217,7 @@
                 </div>
             </div>
 
-            <div class="mr-3 d-block w-100">
+            <div class="mr-3 d-block w-100 min-lg-h-228">
                 <div class="p-4 text-center min-width-230 h-100 w-100 bg-main-darken-outline">
                     <div class="text-uppercase font-40 font-lg-48 text-white font-weight-bold">
                         63
@@ -230,7 +231,7 @@
                 </div>
             </div>
 
-            <div class="mr-3 d-block w-100">
+            <div class="mr-3 d-block w-100 min-lg-h-228">
                 <div class="p-4 text-center min-width-230 h-100 w-100 bg-main-darken-outline">
                     <div class="text-uppercase font-40 font-lg-48 text-white font-weight-bold">
                         275
@@ -274,19 +275,19 @@
             <div class="w-100 mr-3 min-width-230 mb-3">
                 <a href="projects-details.php" class="projects-card hover-shadow radius-8 position-relative">
 
-                    <div class="embed-responsive embed-responsive-14by9 radius-8">
+                    <div class="embed-responsive embed-responsive-290by radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
                              class="embed-responsive-item object-cover" alt="">
                         <div class="position-absolute bottom-0 left-0 w-100 m-4 m-lg-5 font-weight-bold text-white z-index-9">
                             Abşeron Aqropark
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn position-relative">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
                             <div
-                               class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                                    class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
                             </div>
                         </div>
@@ -298,19 +299,19 @@
             <div class="w-100 mr-3 min-width-230 mb-3">
                 <a href="projects-details.php" class="projects-card hover-shadow radius-8 position-relative">
 
-                    <div class="embed-responsive embed-responsive-14by9 radius-8">
+                    <div class="embed-responsive embed-responsive-290by radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-2.png"
                              class="embed-responsive-item object-cover" alt="">
                         <div class="position-absolute bottom-0 left-0 w-100 m-4 m-lg-5 font-weight-bold text-white z-index-9">
                             Park Residence
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn position-relative">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
                             <div
-                               class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                                    class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
                             </div>
                         </div>
@@ -322,19 +323,19 @@
             <div class="w-100 mr-3 min-width-230 mb-3">
                 <a href="projects-details.php" class="projects-card hover-shadow radius-8 position-relative">
 
-                    <div class="embed-responsive embed-responsive-14by9 radius-8">
+                    <div class="embed-responsive embed-responsive-290by radius-8">
                         <img src="assets/images/AS%20Insaat/worm-s-eye-view-photo-of-high-rise-building-1102846-1.png"
                              class="embed-responsive-item object-cover" alt="">
                         <div class="position-absolute bottom-0 left-0 w-100 m-4 m-lg-5 font-weight-bold text-white z-index-9">
                             Park Residence
                         </div>
-                        <div class="bg-before-opacity"></div>
+                        <div class="bg-before-opacity-there"></div>
                     </div>
 
                     <div class="w-100 projects-card-btn position-relative">
                         <div class="position-absolute bottom-0 left-0 z-index-9 w-100 d-flex align-items-center justify-content-center">
                             <div
-                               class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
+                                    class="btn bg-yellow measure-40 rounded-circle d-flex align-items-center justify-content-center">
                                 <i class="mdi mdi-arrow-right font-20 text-white"></i>
                             </div>
                         </div>
@@ -374,7 +375,7 @@
             <div class="col-12 col-md-6 col-lg-4 mb-3">
                 <a href="news-details.php" class="bg-white radius-10 news-card d-block">
 
-                    <div class="embed-responsive embed-responsive-16by9 radius-10">
+                    <div class="embed-responsive embed-responsive-251by radius-10">
                         <img src="assets/images/AS%20Insaat/architectural-design-architecture-building-business-532569.png"
                              class="embed-responsive-item object-cover" alt="">
                         <div class="position-absolute bottom-0 left-0 m-3 text-white z-index-9 bg-main-special p-2 radius-8 d-flex align-items-center justify-content-center">
@@ -604,60 +605,65 @@
         </div>
     </div>
 </div>-->
-<div class="container-fluid bg-body mb-5 px-lg-5">
-    <div class="bg-white radius-10">
-        <div class="container-xl partners-carousel">
-            <div class="mx-4">
-                <div class="chart-discount-carousel">
+<div class="container-fluid bg-white mb-5 px-lg-5">
+    <div class="container-xl partners-carousel">
+        <div class="mx-4">
+            <div class="chart-discount-carousel">
 
-                    <div class="item">
-                        <div class="d-flex justify-content-center py-2 position-relative">
-                            <div class="text-muted p-3 font-20 font-weight-bold">
-                                <img src="https://logos-world.net/wp-content/uploads/2020/09/Starbucks-Logo.png" class="contain w-100" alt="">
-                            </div>
+                <div class="item">
+                    <div class="d-flex justify-content-center py-2 position-relative">
+                        <div class="text-muted p-3 font-20 font-weight-bold">
+                            <img src="https://logos-world.net/wp-content/uploads/2020/09/Starbucks-Logo.png"
+                                 class="contain w-100" alt="">
                         </div>
                     </div>
-
-                    <div class="item">
-                        <div class="d-flex justify-content-center py-2 position-relative">
-                            <div class="text-muted p-3 font-20 font-weight-bold">
-                                <img src="https://logos-world.net/wp-content/uploads/2020/09/Starbucks-Logo.png" class="contain w-100" alt="">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="d-flex justify-content-center py-2 position-relative">
-                            <div class="text-muted p-3 font-20 font-weight-bold">
-                                <img src="https://w7.pngwing.com/pngs/953/877/png-transparent-nicholasville-masterbuilt-construction-logo-roofer-house-roof-top-view-angle-text-logo.png" class="contain w-100" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="d-flex justify-content-center py-2 position-relative">
-                            <div class="text-muted p-3 font-20 font-weight-bold">
-                                <img src="https://w7.pngwing.com/pngs/953/877/png-transparent-nicholasville-masterbuilt-construction-logo-roofer-house-roof-top-view-angle-text-logo.png" class="contain w-100" alt="">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="d-flex justify-content-center py-2 position-relative">
-                            <div class="text-muted p-3 font-20 font-weight-bold">
-                                <img src="https://logos-world.net/wp-content/uploads/2020/09/Starbucks-Logo.png" class="contain w-100"  alt="">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="d-flex justify-content-center py-2 position-relative">
-                            <div class="text-muted p-3 font-20 font-weight-bold">
-                                <img src="https://logos-world.net/wp-content/uploads/2020/09/Starbucks-Logo.png" class="contain w-100"  alt="">
-                            </div>
-                        </div>
-                    </div>
-
                 </div>
+
+                <div class="item">
+                    <div class="d-flex justify-content-center py-2 position-relative">
+                        <div class="text-muted p-3 font-20 font-weight-bold">
+                            <img src="https://logos-world.net/wp-content/uploads/2020/09/Starbucks-Logo.png"
+                                 class="contain w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="d-flex justify-content-center py-2 position-relative">
+                        <div class="text-muted p-3 font-20 font-weight-bold">
+                            <img src="https://w7.pngwing.com/pngs/953/877/png-transparent-nicholasville-masterbuilt-construction-logo-roofer-house-roof-top-view-angle-text-logo.png"
+                                 class="contain w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="d-flex justify-content-center py-2 position-relative">
+                        <div class="text-muted p-3 font-20 font-weight-bold">
+                            <img src="https://w7.pngwing.com/pngs/953/877/png-transparent-nicholasville-masterbuilt-construction-logo-roofer-house-roof-top-view-angle-text-logo.png"
+                                 class="contain w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="d-flex justify-content-center py-2 position-relative">
+                        <div class="text-muted p-3 font-20 font-weight-bold">
+                            <img src="https://logos-world.net/wp-content/uploads/2020/09/Starbucks-Logo.png"
+                                 class="contain w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="d-flex justify-content-center py-2 position-relative">
+                        <div class="text-muted p-3 font-20 font-weight-bold">
+                            <img src="https://logos-world.net/wp-content/uploads/2020/09/Starbucks-Logo.png"
+                                 class="contain w-100" alt="">
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
@@ -680,7 +686,7 @@
 
 <style>
     @media (min-width: 992px) {
-        body{
+        body {
             background-color: #F3F6FD;
         }
     }
